@@ -14,10 +14,14 @@
 
 ## 控件
    * [静态标签](label.md)
-   * [按键](button.md)
+   * [文字](character.md)
    * [艺术字](arttext.md)
+   * [数值](numble.md)
+   * [按键](button.md)
+   * [调节器](adjuster.md)
    * [滑块](progressbar.md)
    * [图片](image.md)
+   * [二维码](qr_code.md)
    * [动画](animation.md)
    
 ## 其他
