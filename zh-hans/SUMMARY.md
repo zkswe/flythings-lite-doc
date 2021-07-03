@@ -26,3 +26,4 @@
    
 ## 其他
    * [导入项目](import_project.md)
+   * [下载DEMO](DEMO.md)
